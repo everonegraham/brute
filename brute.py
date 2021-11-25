@@ -1,7 +1,10 @@
+
 import requests
 import time
 
-PATH = "C:\\Users\\Everone\\Documents\\GCPBucketBrute\\"
+#Add path to your GCPBucketBrute here, or bring the script to the GCPBucketBrute folder
+#leave the path blacnk.
+PATH = ""
 URL = "https://www.googleapis.com/storage/v1/b/"
 
 
